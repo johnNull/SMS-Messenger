@@ -1,0 +1,56 @@
+AirFireMobile
+AlaskaCommunications
+Alltel(AlliedWireless)
+Ameritech
+AssuranceWireless
+AT&T
+BellSouth
+BluegrassCellular
+Boost Mobile
+Cellcom
+CeneralCommunications Inc.
+CentennialWireless
+CharitonValleyWireless
+ChatMobility
+Cinglular
+Cleartalk
+ConsumerCellular
+Cricket
+CSpireWireless
+EdgeWireless
+ElementMobile
+Essendex
+GoldenStateCellular
+Greatcall
+Kajeet
+Longlines
+MetroPCS
+Nextech
+PagePlusCellular
+QwestWireless
+RedPocketMobile
+RogersWireless
+SimpleMobile
+Southerlinc
+SouthCentralCommunications
+Sprint
+StraightTalk
+StraightTalk (AT&T Sim)
+StraightTalk (T-Mobile Sim)
+Solavei
+SyringaWireless
+T-Mobile
+Teleflip
+Telus Mobility
+Ting
+TracFone
+Unicel
+UnionWireless
+USCellular
+USAMobility
+VerizonWireless
+Viaero
+VirginMobile
+VoyagerMobile
+WestCentralWireless
+XITCommunications
